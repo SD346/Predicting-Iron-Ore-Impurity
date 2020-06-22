@@ -1,2 +1,37 @@
-# Predicting-Iron-Ore-Impurity
-Ore is a naturally occurring solid material from which a metal or valuable mineral can be extracted profitably. The ore comes with naturally occurring impurities. One of such impurities is “Silica”.   During the extraction of minerals from Ore, impurity is measured every hour. If we can predict how much silica (impurity) is in the ore concentrate, then we can provide such early information to the engineering team for corrective action.   Basis the early information the engineering team will be able to reduce/control the impurity ensuring quality output through extraction from ore. It is also helpful for the environment as we reduce the amount of ore that goes into tailings (are the by products left over from mining and extracting resources).
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/SD346/Predicting-Iron-Ore-Impurity/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SD346/Predicting-Iron-Ore-Impurity/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
